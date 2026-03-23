@@ -1,8 +1,3 @@
-Here’s a **clean, production-grade updated README** with your new security analysis, gas report, and verification details properly structured.
-
----
-
-```md
 # SignalRegistry — Rootstock Testnet
 
 A decentralized **event-first signaling primitive** built on Rootstock (RSK), enabling users to stake, emit signals, and observe time-based decay of influence.
